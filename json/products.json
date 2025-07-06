@@ -1,0 +1,461 @@
+[
+    {
+        "id": 1,
+        "name": "2Second-Sabuk-Pria",
+        "price": "Rp.99.000",
+        "images": [
+            "images/Aksesoris/2Second-Sabuk-Pria.png"
+        ],
+        "category": "Aksesoris",
+        "description": "Sabuk Pria Ikat Pinggang Kualitas Matang."
+    },
+    {
+        "id": 2,
+        "name": "3Second Jam Tangan Analog",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Aksesoris/3Second-Jam-Tangan-Analog.webp"
+        ],
+        "category": "Aksesoris",
+        "description": "Jam Tangan Analog Pria Hitam."
+    },
+    {
+        "id": 3,
+        "name": "Greenlight Topi Pria",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Aksesoris/Greenlight-Topi-Pria.png"
+        ],
+        "category": "Aksesoris",
+        "isTrending":true,
+        "description": "Tampil Elegan dengan Topi Pria Hitam."
+    },
+    {
+        "id": 4,
+        "name": "Heuval Tribe Kupluk",
+        "price": "Rp.80.000",
+        "images": [
+            "images/Aksesoris/Heuval-Tribe-Topi-Kupluk.png"
+        ],
+        "category": "Aksesoris",
+        "description": "Heuval Tribe Kupluk Warna Cokelat."
+    },
+     {
+        "id": 5,
+        "name": "Heuval Tribe Kupluk",
+        "price": "Rp.80.000",
+        "images": [
+            "images/Aksesoris/Heuval-Tribe-Topi-Kupluk-Green.png"
+        ],
+        "category": "Aksesoris",
+        "description": "Heuval Tribe Kupluk Warna Hijau."
+    },
+    {
+        "id": 6,
+        "name": "Heuval Tribe Kupluk",
+        "price": "Rp.80.000",
+        "images": [
+            "images/Aksesoris/Heuval-Tribe-Topi-Kupluk-Yellow.png"
+        ],
+        "category": "Aksesoris",
+        "isTrending":true,
+        "description": "Heuval Tribe Kupluk Warna Kuning."
+    },
+
+
+
+
+    {
+        "id": 11,
+        "name": "Antarestar Day Backpack",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Tas/Antarestar-Daypack.png"
+        ],
+        "category": "Tas",
+        "description": "Antarestar Day Backpack Abu-Abu."
+    },
+    {
+        "id": 12,
+        "name": "Eiger Marmoset Backpack",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Tas/Eiger-Marmoset-Backpack.png"
+        ],
+        "category": "Tas",
+        "isTrending":false,
+        "description": "Eiger Marmoset Backpack Oren Biru Laut."
+    },
+    {
+        "id": 13,
+        "name": "Eiger Voyager Backpack",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Tas/Eiger-Voyager-Backpack.png"
+        ],
+        "category": "Tas",
+        "description": "Eiger Voyager Backpack."
+    },
+    {
+        "id": 14,
+        "name": "Eiger X Aster Canvas Backpack",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Tas/Eiger-X-Aster-Canvas-Backpack.png"
+        ],
+        "category": "Tas",
+        "isTrending":true,
+        "description": "Eiger X Aster Canvas Backpack."
+    },
+    {
+        "id": 15,
+        "name": "Eiger Pouch",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Tas/Eiger-Pouch.png"
+        ],
+        "category": "Tas",
+        "isTrending":true,
+        "description": "Eiger-Pouch."
+    },
+    {
+        "id": 16,
+        "name": "Geenlight Tas Pria 2 in 1",
+        "price": "Rp.180.000",
+        "images": [
+            "images/Tas/Geenlight-Tas-Pia-2-in-1.png"
+        ],
+        "category": "Tas",
+        "description": "Geenlight-Tas-Pia-2-in-1"
+    },
+
+
+
+
+
+    {
+        "id": 21,
+        "name": "Celcius X Ray Hoodie Hitam",
+        "price": "Rp.300.000",
+        "images": [
+            "images/Jaket/CL-X-Ray-Hoodie-Hitam.png"
+        ],
+        "category": "Jaket",
+        "description": "CL X-Ray Hoodie Warna Hitam"
+    },
+    {
+        "id": 22,
+        "name": "Dobujack Gorpcore Jacket",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Jaket/Dobujack-Gorpcore-Jacket.png"
+        ],
+        "category": "Jaket",
+        "description": "Dobujack-Gorpcore-Jacket"
+    },
+    {
+        "id": 23,
+        "name": "Dobujack Monic Misty Hoodie",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Jaket/Dobujack-Monic-Misty-Hoodie.png"
+        ],
+        "category": "Jaket",
+        "isTrending":false,
+        "description": "Dobujack-Monic-Misty-Hoodie"
+    },
+    {
+        "id": 24,
+        "name": "Dobujack Tracktop Suit Jacket",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Jaket/Dobujack-Tracktop-Suit-Jacket.png"
+        ],
+        "category": "Jaket",
+        "description": "Dobujack-Tracktop-Suit-Jacket"
+    },
+    {
+        "id": 25,
+        "name": "Halfzip Rib Misty Oversize",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Jaket/Halfzip-Rib-Misty-Oversize.png"
+        ],
+        "category": "Jaket",
+        "description": "Halfzip-Rib-Misty-Oversize"
+    },
+    {
+        "id": 26,
+        "name": "House of Smith Sweater Hoodie",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Jaket/House-of-Smith-Sweater-Hoodie.png"
+        ],
+        "category": "Jaket",
+        "isTrending":true,
+        "description": "House -of-Smith-Sweater-Hoodie"
+    },
+    {
+        "id": 27,
+        "name": "House of Smith Sweater Hoodie Black",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Jaket/House-of-Smith-Sweater-Hoodie-Black.png"
+        ],
+        "category": "Jaket",
+        "isTrending":true,
+        "description": "House-of-Smith-Sweater-Hoodie-Black"
+    },
+
+
+
+
+
+    {
+        "id": 31,
+        "name": "3Second Kaos Anak-Anak",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/3Second-Kaos-Anak-Anak.png"
+        ],
+        "category": "Pakaian",
+        "description": "3Second-Kaos-Anak-Anak"
+    },
+    {
+        "id": 32,
+        "name": "Celcius Lengan Pendek",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/Celcius-Lengan-Pendek.png"
+        ],
+        "category": "Pakaian",
+        "description": "Celcius-Lengan-Pendek"
+    },
+    {
+        "id": 33,
+        "name": "Celcius Lengan Pendek Purple",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/Celcius-Lengan-Pendek-Purple.png"
+        ],
+        "category": "Pakaian",
+        "isTrending":true,
+        "description": "Celcius-Lengan-Pendek-Purple"
+    },
+    {
+        "id": 34,
+        "name": "Celcius Lengan Pendek White",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/Celcius-Lengan-Pendek-White.png"
+        ],
+        "category": "Pakaian",
+        "description": "Celcius-Lengan-Pendek-White"
+    },
+    {
+        "id": 35,
+        "name": "Kaos Otsky Run Boxy Ovesize",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/Kaos-Otsky-un-Boxy-Ovesize.png"
+        ],
+        "category": "Pakaian",
+        "description": "Kaos-Otsky-un-Boxy-Ovesize"
+    },
+    {
+        "id": 36,
+        "name": "Otsky Kaos Pria Monkey D Luffy",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/Otsky-Kaos-Pria-Monkey-D-Luffy.png"
+        ],
+        "category": "Pakaian",
+        "isTrending":true,
+        "description": "Otsky-Kaos-Pria-Monkey-D-Luffy"
+    },
+    {
+        "id": 37,
+        "name": "Otsky Polo Shirt",
+        "price": "Rp.240.000",
+        "images": [
+            "images/Pakaian/Otsky-Polo-Shirt.png"
+        ],
+        "category": "Pakaian",
+        "description": "Otsky-Polo-Shirt"
+    },
+   
+    
+
+
+
+    {
+        "id": 41,
+        "name": "Cargo Pants - Morrowsky",
+        "price": "Rp.290.000",
+        "images": [
+            "images/Celana/Cargo-Pants-Morrowsky.png"
+        ],
+        "category": "Celana",
+        "isTrending":true,
+        "description": "Cargo-Pants-Morrowsky"
+    },
+    {
+        "id": 42,
+        "name": "Carpenter Pants - Morrowsky",
+        "price": "Rp.290.000",
+        "images": [
+            "images/Celana/Carpenter-Pants-Morrowsky.png"
+        ],
+        "category": "Celana",
+        "isTrending":false,
+        "description": "Carpenter-Pants-Morrowsky"
+    },
+    {
+        "id": 43,
+        "name": "Celana Chino Cavier",
+        "price": "Rp.290.000",
+        "images": [
+            "images/Celana/Celana-Chino-Cavier.png"
+        ],
+        "category": "Celana",
+        "isTrending":false,
+        "description": "Celana-Chino-Cavier"
+    },
+    {
+        "id": 44,
+        "name": "Celana Jeans Reguler",
+        "price": "Rp.290.000",
+        "images": [
+            "images/Celana/Celana-Jeans-Reguler.png"
+        ],
+        "category": "Celana",
+        "isTrending":false,
+        "description": "Celana-Jeans-Reguler"
+    },
+    {
+        "id": 45,
+        "name": "Celana Pendek Cargo Fleece",
+        "price": "Rp.290.000",
+        "images": [
+            "images/Celana/Celana-Pendek-Cargo-Fleece.png"
+        ],
+        "category": "Celana",
+        "isTrending":false,
+        "description": "Celana-Pendek-Cargo-Fleece"
+    },
+    {
+        "id": 46,
+        "name": "Chino Work Pants - Morrorwsky",
+        "price": "Rp.290.000",
+        "images": [
+            "images/Celana/Chino-Work-Pants-Morrorwsky.png"
+        ],
+        "category": "Celana",
+        "isTrending":true,
+        "description": "Chino-Work-Pants-Morrorwsky"
+    },
+
+
+
+
+
+    {
+        "id": 51,
+        "name": "Aerostreet Austin Coklat Gum Hijau Tua",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Aerostreet-Austin-Coklat-Gum-Hijau-Tua.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Aerostreet Austin Coklat Gum Hijau Tua"
+    },
+    {
+        "id": 52,
+        "name": "Aerostreet Austin Coklat Tua Maroon",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Aerostreet-Austin-Coklat-Tua-Maroon.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Aerostreet Austin Coklat Tua Maroon"
+    },
+    {
+        "id": 54,
+        "name": "Aerostreet Hoops High Hitam Putih",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Aerostreet-Hoops-High-Hitam-Putih.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Aerostreet Hoops High Hitam Putih"
+    },
+    {
+        "id": 55,
+        "name": "Compass Gazelle Hi Black Gum",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Compass-Gazelle-Hi-Black-Gum.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Compass Gazelle Hi Black Gum"
+    },
+    {
+        "id": 56,
+        "name": "Compass Tribune Black Gum",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Compass-Tribune-Black-Gum.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Compass Tribune Black Gum"
+    },
+    {
+        "id": 57,
+        "name": "Compass Tribune White Blue",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Compass-Tribune-White-Blue.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":true,
+        "description": "Compass Tribune White Blue"
+    },
+    {
+        "id": 59,
+        "name": "Veloz Black White",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Veloz-Black-White.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Veloz Black White"
+    },
+    {
+        "id": 60,
+        "name": "Ventela Ethnic High Black",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Ventela-Ethnic-High-Black.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":true,
+        "description": "Ventela Ethnic High Black"
+    },
+    {
+        "id": 62,
+        "name": "Ventela Republic High Cream",
+        "price": "Rp.330.000",
+        "images": [
+            "images/Sepatu/Ventela-Republic-High-Cream.png"
+        ],
+        "category": "Sepatu",
+        "isTrending":false,
+        "description": "Ventela Republic High Warna Cream"
+    }
+]
